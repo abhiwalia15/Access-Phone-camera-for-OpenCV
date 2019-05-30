@@ -1,3 +1,5 @@
+#python script to acces phone camera in openCV
+
 import requests
 import cv2
 import numpy as np
